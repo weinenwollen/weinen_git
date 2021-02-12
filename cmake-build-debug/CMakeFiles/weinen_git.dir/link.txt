@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/weinen_git.dir/main.cpp.o  -o weinen_git 
